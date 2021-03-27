@@ -1,0 +1,7 @@
+{
+  "name": "unenmo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
